@@ -123,7 +123,7 @@ LICENSE
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/nand2tetris-projects.git
+   git clone https://github.com/ARAVINDKUMARGS/nand2tetris-projects.git
    ```
 2. Open the **Hardware Simulator** / **VM Emulator** / **CPU Emulator** from Nand2Tetris tools.
 3. Load `.hdl`, `.asm`, or `.hack` files to test and run programs.
